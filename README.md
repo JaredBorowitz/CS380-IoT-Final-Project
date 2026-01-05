@@ -122,3 +122,9 @@ the project would need to be upgraded, including:
   * Integrating a gyroscope/ accelerometer
   * Rescaling the map in real time
   * Redesigning the frame to reduce weight
+  * 
+
+## Demo Video Links
+https://drive.google.com/file/d/1tXIpCPR9eVDTDd5Uh586QiyMqKvh2bV1/view?usp=sharing
+https://drive.google.com/file/d/120IIBkI1yi1oiD9uTVBwVHLnUHMoyz41/view?usp=sharing
+
